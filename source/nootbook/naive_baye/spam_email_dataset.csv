@@ -1,0 +1,101 @@
+EmailID,Subject,Sender,ContentLength,NumLinks,IsSpam
+email_001,Meeting Reminder,hr@company.com,122,4,1
+email_002,Win a Free iPhone,admin@securemail.com,774,6,1
+email_003,Congratulations!,admin@securemail.com,696,8,1
+email_004,Project Update,alerts@bank.com,110,10,0
+email_005,Project Update,admin@securemail.com,284,7,0
+email_006,You have won!,newsletter@deals.com,119,2,1
+email_007,Meeting Reminder,admin@securemail.com,977,3,1
+email_008,Discount Offer,newsletter@deals.com,82,4,0
+email_009,Meeting Reminder,alerts@bank.com,930,3,0
+email_010,Urgent Account Notice,hr@company.com,388,0,1
+email_011,Free Vacation Offer,hr@company.com,122,9,0
+email_012,Win a Free iPhone,admin@securemail.com,576,8,1
+email_013,Win a Free iPhone,newsletter@deals.com,293,0,0
+email_014,Meeting Reminder,promo@spamoffers.com,335,5,1
+email_015,Project Update,promo@spamoffers.com,735,0,1
+email_016,Project Update,promo@spamoffers.com,547,0,0
+email_017,Discount Offer,hr@company.com,269,9,0
+email_018,Urgent Account Notice,hr@company.com,602,7,0
+email_019,Win a Free iPhone,newsletter@deals.com,185,8,0
+email_020,Discount Offer,admin@securemail.com,790,8,0
+email_021,Project Update,promo@spamoffers.com,953,2,1
+email_022,Discount Offer,newsletter@deals.com,634,0,0
+email_023,Free Vacation Offer,newsletter@deals.com,640,8,1
+email_024,Project Update,admin@securemail.com,534,1,0
+email_025,Team Outing,newsletter@deals.com,298,2,0
+email_026,Urgent Account Notice,admin@securemail.com,853,1,1
+email_027,Congratulations!,alerts@bank.com,534,9,1
+email_028,Win a Free iPhone,admin@securemail.com,876,1,0
+email_029,You have won!,promo@spamoffers.com,466,10,1
+email_030,Free Vacation Offer,promo@spamoffers.com,244,3,0
+email_031,Invoice Due,admin@securemail.com,146,6,0
+email_032,Congratulations!,alerts@bank.com,149,1,0
+email_033,You have won!,alerts@bank.com,724,9,1
+email_034,Project Update,promo@spamoffers.com,491,3,1
+email_035,Invoice Due,alerts@bank.com,412,9,0
+email_036,Meeting Reminder,newsletter@deals.com,483,9,0
+email_037,Meeting Reminder,hr@company.com,470,0,0
+email_038,Free Vacation Offer,newsletter@deals.com,528,9,0
+email_039,Meeting Reminder,promo@spamoffers.com,934,1,1
+email_040,Invoice Due,alerts@bank.com,796,6,0
+email_041,Invoice Due,admin@securemail.com,105,10,0
+email_042,Urgent Account Notice,hr@company.com,739,9,1
+email_043,Congratulations!,admin@securemail.com,719,9,1
+email_044,Win a Free iPhone,promo@spamoffers.com,711,8,0
+email_045,Team Outing,alerts@bank.com,150,5,1
+email_046,Discount Offer,admin@securemail.com,112,4,0
+email_047,Meeting Reminder,admin@securemail.com,462,3,0
+email_048,Free Vacation Offer,hr@company.com,795,10,1
+email_049,Meeting Reminder,hr@company.com,397,5,0
+email_050,Discount Offer,alerts@bank.com,869,3,1
+email_051,Congratulations!,hr@company.com,932,4,0
+email_052,Urgent Account Notice,admin@securemail.com,161,6,0
+email_053,Invoice Due,admin@securemail.com,304,2,1
+email_054,Urgent Account Notice,promo@spamoffers.com,246,10,1
+email_055,Project Update,admin@securemail.com,244,10,1
+email_056,Meeting Reminder,alerts@bank.com,599,4,0
+email_057,Win a Free iPhone,newsletter@deals.com,509,7,0
+email_058,Project Update,promo@spamoffers.com,193,5,0
+email_059,Congratulations!,promo@spamoffers.com,482,1,0
+email_060,Meeting Reminder,alerts@bank.com,237,0,1
+email_061,Project Update,alerts@bank.com,335,7,1
+email_062,Meeting Reminder,hr@company.com,523,9,1
+email_063,Free Vacation Offer,promo@spamoffers.com,305,9,0
+email_064,Congratulations!,hr@company.com,945,1,1
+email_065,Team Outing,admin@securemail.com,995,1,1
+email_066,Invoice Due,promo@spamoffers.com,127,8,1
+email_067,You have won!,promo@spamoffers.com,503,3,1
+email_068,Invoice Due,newsletter@deals.com,877,8,0
+email_069,Invoice Due,promo@spamoffers.com,932,4,0
+email_070,Project Update,admin@securemail.com,926,2,1
+email_071,Congratulations!,hr@company.com,613,5,0
+email_072,Meeting Reminder,hr@company.com,150,1,1
+email_073,Urgent Account Notice,newsletter@deals.com,101,3,0
+email_074,You have won!,admin@securemail.com,717,5,0
+email_075,Discount Offer,hr@company.com,603,4,1
+email_076,Project Update,alerts@bank.com,906,2,1
+email_077,You have won!,admin@securemail.com,65,7,1
+email_078,Team Outing,admin@securemail.com,145,8,1
+email_079,Free Vacation Offer,newsletter@deals.com,998,4,0
+email_080,Congratulations!,hr@company.com,821,9,1
+email_081,Discount Offer,admin@securemail.com,919,10,0
+email_082,Project Update,hr@company.com,292,8,1
+email_083,Invoice Due,alerts@bank.com,220,0,0
+email_084,Win a Free iPhone,newsletter@deals.com,466,10,1
+email_085,Project Update,alerts@bank.com,547,8,0
+email_086,Win a Free iPhone,newsletter@deals.com,542,4,0
+email_087,Invoice Due,admin@securemail.com,268,10,1
+email_088,Free Vacation Offer,newsletter@deals.com,935,1,1
+email_089,Congratulations!,promo@spamoffers.com,460,2,0
+email_090,Meeting Reminder,hr@company.com,974,4,1
+email_091,Project Update,hr@company.com,110,1,1
+email_092,Urgent Account Notice,promo@spamoffers.com,218,1,0
+email_093,Invoice Due,alerts@bank.com,438,8,1
+email_094,Project Update,promo@spamoffers.com,52,2,1
+email_095,Team Outing,admin@securemail.com,449,4,1
+email_096,Free Vacation Offer,admin@securemail.com,321,4,1
+email_097,Team Outing,hr@company.com,998,9,1
+email_098,You have won!,admin@securemail.com,852,3,1
+email_099,Congratulations!,hr@company.com,853,5,0
+email_100,You have won!,promo@spamoffers.com,515,3,0

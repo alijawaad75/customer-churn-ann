@@ -1,0 +1,2 @@
+V	260606110906Z		01	unknown	/C=US/ST=California/O=Jupyter PKI Lab/CN=jupyter-server.local
+V	260606110911Z		02	unknown	/C=US/ST=California/O=Exercise Lab/CN=exercise.local

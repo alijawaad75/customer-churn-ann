@@ -1,0 +1,12 @@
+{
+    "Import Data Science Libraries": {
+        "prefix": "dsimport",
+        "body": [
+            "import numpy as np",
+            "import pandas as pd",
+            "import matplotlib.pyplot as plt",
+            "import seaborn as sns"
+        ],
+        "description": "Snippet to import essential data science libraries"
+    }
+}

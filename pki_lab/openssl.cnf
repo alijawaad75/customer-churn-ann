@@ -1,0 +1,40 @@
+
+[ ca ]
+default_ca = CA_default
+
+[ CA_default ]
+dir               = ./mini-ca
+certs             = $dir/certs
+new_certs_dir     = $dir/newcerts
+database          = $dir/index.txt
+serial            = $dir/serial
+private_key       = $dir/private/ca-key.pem
+certificate       = $dir/certs/ca-cert.pem
+default_days      = 365
+default_md        = sha256
+policy            = policy_any
+
+[ policy_any ]
+countryName            = optional
+stateOrProvinceName    = optional
+organizationName       = optional
+organizationalUnitName = optional
+commonName             = supplied
+emailAddress           = optional
+
+[ req ]
+distinguished_name = req_distinguished_name
+x509_extensions = v3_ca
+prompt = no
+
+[ req_distinguished_name ]
+C = US
+ST = California
+L = San Francisco
+O = Jupyter PKI Lab
+CN = Jupyter Root CA
+
+[ v3_ca ]
+subjectKeyIdentifier = hash
+authorityKeyIdentifier = keyid:always,issuer:always
+basicConstraints = CA:true

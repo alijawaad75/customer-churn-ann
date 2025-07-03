@@ -1,0 +1,10 @@
+
+IMPORTANT DOCUMENT
+==================
+
+This document contains critical information about PKI implementation.
+It must be digitally signed to ensure authenticity and integrity.
+
+Date: 2024-06-06
+Author: PKI Lab
+Version: 1.1

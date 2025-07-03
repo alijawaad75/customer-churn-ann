@@ -1,0 +1,25 @@
+Fruit,Weight,"Color (red=1, orange=0)",Label
+A,150,1,Apple
+B,160,1,Apple
+C,170,0,Orange
+D,155,1,Apple
+E,165,1,Apple
+F,175,0,Orange
+G,180,0,Orange
+H,145,1,Apple
+I,185,0,Orange
+J,150,0,Orange
+K,160,0,Orange
+L,170,1,Apple
+M,175,1,Apple
+N,180,1,Apple
+O,165,0,Orange
+P,155,0,Orange
+Q,150,1,Apple
+R,160,1,Apple
+S,170,0,Orange
+T,145,0,Orange
+U,155,1,Apple
+V,165,1,Apple
+W,185,0,Orange
+X,175,0,Orange
